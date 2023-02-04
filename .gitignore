@@ -1,0 +1,5 @@
+# ignore ALL backup blender files
+*.blend1
+
+# ignore ALL files in ANY directory with cached fluid bakes
+cache_fluid_4b85f272/
